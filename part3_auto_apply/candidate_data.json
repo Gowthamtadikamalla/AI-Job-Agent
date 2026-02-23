@@ -1,0 +1,29 @@
+{
+  "identity": {
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "phone": "+1-415-555-0100",
+    "location": "New York, NY",
+    "company": "Acme Corp"
+  },
+  "files": {
+    "resume_path": "resume.pdf"
+  },
+  "custom_answers": {
+    "cover_letter": "I am excited to apply for this position. My background in data science and machine learning aligns well with Ekimetrics' mission of making data science more impactful for businesses.",
+    "notice period": "2 weeks",
+    "ideal start date": "March",
+    "expected salary range": "Competitive / Negotiable",
+    "languages fluent": "English",
+    "how did you hear about ekimetrics": "Social media",
+    "require a visa to work": "No, I am an American Citizen or Permanent Resident.",
+    "what visa are you on or will you require": "N/A - US Citizen",
+    "open to working new york office": "Yes",
+    "preferred coding language": "Python",
+    "gender": "Prefer not to say",
+    "ethnicity": "Prefer not to say",
+    "age bracket": "Prefer not to say",
+    "where did you hear about ekimetrics": "LinkedIn",
+    "consent": "yes"
+  }
+}

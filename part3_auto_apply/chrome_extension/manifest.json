@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Jobnova Auto-Apply",
+  "version": "1.0.0",
+  "description": "Automatically fills Lever job application forms on behalf of the user.",
+
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage",
+    "tabs"
+  ],
+
+  "host_permissions": [
+    "https://jobs.lever.co/*"
+  ],
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://jobs.lever.co/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

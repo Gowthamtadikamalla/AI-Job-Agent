@@ -1,0 +1,11 @@
+streamlit>=1.30
+python-dotenv
+# Part 1 (token generation for embedded voice client)
+livekit-api>=1.0
+# Part 2 dependencies (runs inline)
+apify-client>=1.7
+httpx>=0.27
+beautifulsoup4>=4.12
+lxml>=5.0
+# Part 3 (subprocess launch)
+playwright>=1.49
