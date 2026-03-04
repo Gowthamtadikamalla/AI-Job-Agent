@@ -1,4 +1,4 @@
-# Jobnova AI Engineer — Take-Home Challenge
+# Jobnova AI Engineer
 
 A unified platform with three AI-powered modules: **Mock Interview**, **Job Source Agent**, and **Auto-Apply Agent**.
 
