@@ -84,7 +84,7 @@ Copy `.env.example` to `.env` and fill in your keys:
 
 ---
 
-## Part 1 — AI Mock Interview
+## Part 1 - AI Mock Interview
 
 A LiveKit voice agent that conducts a structured mock interview with two stages and personalised feedback.
 
@@ -106,7 +106,7 @@ PYTHONPATH=.. python main.py dev
 
 ---
 
-## Part 2 — AI Job Source Agent
+## Part 2 - AI Job Source Agent
 
 Given a LinkedIn job URL, automatically finds the company's career page and extracts open positions.
 
@@ -131,7 +131,7 @@ PYTHONPATH=.. python main.py "https://www.linkedin.com/jobs/view/1234567890"
 
 ---
 
-## Part 3 — Resume Auto-Apply Agent
+## Part 3 - Resume Auto-Apply Agent
 
 Automatically fills and submits a Lever job application using Playwright + a Chrome Extension. **No API keys required.**
 
